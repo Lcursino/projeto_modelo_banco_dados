@@ -1,6 +1,4 @@
 ![ecommerce](https://github.com/user-attachments/assets/10f7caea-27ea-48e5-973f-7d56f3f1e521)
-
-```markdown
 # Modelo de Banco de Dados para E-commerce
 
 ## Descrição do Projeto
