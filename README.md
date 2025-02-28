@@ -154,4 +154,4 @@ Este projeto apresenta um modelo de banco de dados relacional para um sistema de
 - A modelagem inclui suporte para clientes Pessoa Física (PF) e Pessoa Jurídica (PJ), com tabelas separadas para armazenar informações específicas de cada tipo.
 - O sistema permite o gerenciamento de endereços distintos para clientes PF e PJ, mantendo a integridade dos dados.
 - A tabela `Pedido` inclui um campo `CodigoRastreio` para rastreamento de entregas, facilitando o acompanhamento dos pedidos pelos clientes.
-- A tabela `Entrega` armazena o status e a previsão de entrega,
+- A tabela `Entrega` armazena o status, previsão de entrega, e a empresa responsável pela entrega.
